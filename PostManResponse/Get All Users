@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "671244152326ea3bac9b183e",
+    "email": "niranjanalagappan123@gmail.com",
+    "name": "Niranjan",
+    "password": "12345"
+  },
+  {
+    "_id": "671244562326ea3bac9b183f",
+    "email": "Yuvaraj@gmail.com",
+    "name": "Yuvaraj",
+    "password": "47583"
+  },
+  {
+    "_id": "6712452d2326ea3bac9b1841",
+    "email": "sanjay@gmial.com",
+    "name": "sanjay",
+    "password": "54632"
+  },
+  {
+    "_id": "67129b98fc4f48dd7f9f70e9",
+    "email": "harish@gmial.com",
+    "name": "harish",
+    "password": "9585"
+  }
+]
